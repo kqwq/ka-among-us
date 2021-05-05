@@ -1,0 +1,23 @@
+{
+  "name": "ka-among-us",
+  "version": "1.0.0",
+  "description": "[Home page](https://www.khanacademy.org/cs/i/6501917627990016)\r GitHub -\r Discord - Hc48t2N\r [Graphics component](https://www.khanacademy.org/cs/i/5373284282744832)",
+  "main": "index.js",
+  "scripts": {
+    "watch":"tsc -w",
+    "initial":"tsc --init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kqwq/ka-among-us.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kqwq/ka-among-us/issues"
+  },
+  "homepage": "https://github.com/kqwq/ka-among-us#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
